@@ -1,0 +1,2 @@
+Đường dẫn tới App thứ nhất (full tính năng kết nối BLE và kết nối/đẩy và lấy dữ liệu từ Cloud theo thời gian thực): https://x.thunkable.com/projectPage/67ae0a4556be1766b2401bb3
+Đường dẫn tới App thứ hai (chỉ có tính năng kết nối và theo dõi dữ liệu trên Cloud theo thời gian thực): https://x.thunkable.com/projectPage/67ae0a7cfd491f4b21bbe118 
