@@ -1,0 +1,11 @@
+../Core/Src/main.c:69:10:Read_Light_Sensor	1
+../Core/Src/main.c:77:7:Convert_ADC_to_Lux	1
+../Core/Src/main.c:87:6:Send_Data_To_Bluetooth	1
+../Core/Src/main.c:95:6:check_HM10_OK	2
+../Core/Src/main.c:117:5:main	3
+../Core/Src/main.c:190:6:SystemClock_Config	4
+../Core/Src/main.c:234:13:MX_ADC1_Init	3
+../Core/Src/main.c:281:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:312:13:MX_DMA_Init	1
+../Core/Src/main.c:333:13:MX_GPIO_Init	1
+../Core/Src/main.c:375:6:Error_Handler	1

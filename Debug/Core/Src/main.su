@@ -1,0 +1,11 @@
+../Core/Src/main.c:69:10:Read_Light_Sensor	16	static
+../Core/Src/main.c:77:7:Convert_ADC_to_Lux	40	static
+../Core/Src/main.c:87:6:Send_Data_To_Bluetooth	72	static
+../Core/Src/main.c:95:6:check_HM10_OK	40	static
+../Core/Src/main.c:117:5:main	16	static
+../Core/Src/main.c:190:6:SystemClock_Config	88	static
+../Core/Src/main.c:234:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:281:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:312:13:MX_DMA_Init	16	static
+../Core/Src/main.c:333:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:375:6:Error_Handler	4	static,ignoring_inline_asm
